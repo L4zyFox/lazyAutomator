@@ -1,5 +1,8 @@
 #!/bin/sh
 #by @21y4d
+#Original NmapAutomator - https://github.com/21y4d/nmapAutomator
+#Modified by L4zyFox on 01/05/2025
+#Original MIT License retained
 
 # Define ANSI color variables
 RED='\033[0;31m'
